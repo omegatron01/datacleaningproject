@@ -1,0 +1,22 @@
+id,name,age,email,salary,department,join_date,city,phone
+1, john smith,25,john@email.com,50000,IT,2020-01-15,new york,555-123-4567
+2,JANE DOE,28,jane@email.com,60000,it,2019-03-20,london,(555) 987-6543
+3,bob  johnson,35,bob@email.com,,ENGINEERING,2021-07-10,paris,555.890.1234
+4,Alice Williams,22,alice@email.com,55000,Engineering,2022-02-28,New York,5551234567
+5,carol brown,,carol@email.com,72000,SALES,,berlin,555-000-0000
+6,DAVID MILLER,45,david@email.com,80000,sales,2018-11-05,tokyo,invalid
+7,eva davis,29,eva@email.com,65000,marketing,2020-06-15,,555-111-2222
+8,Frank Wilson,33,frank@email.com,58000,Marketing,2021-09-30,London,555-333-4444
+9,grace lee,27,GRACE@EMAIL.COM,69000,it,2022-01-10,Paris,555-555-5555
+10,henry moore,41,henry@email.com,75000,ENG,2023-03-15,berlin,555-666-7777
+11,  ivy  anderson  ,24,ivy@email.com,52000,IT,2020-08-20,new york,555-888-9999
+12,JACK THOMPSON,38,jack@email.com,82000,SALES,2019-12-10,london,(555) 222-3333
+13,karen white,31,karen@email.com,71000,engineering,2021-04-05,paris,555.444.5555
+14,leo martin,26,leo@email.com,,MARKETING,2022-07-25,new york,5551234567
+15,MIA ROBERTS,36,mia@email.com,78000,sales,2018-09-15,berlin,555-777-8888
+1, john smith,25,john@email.com,50000,IT,2020-01-15,new york,555-123-4567
+16,noah harris,999,noah@email.com,1000000,IT,2023-01-01,tokyo,555-999-0000
+17,olivia clark,30,olivia@email.com,68000,marketing,2020-11-30,london,invalid phone
+18,paul young,28,paul@email.com,62000,it,2021-08-15,paris,555-121-2121
+19,quinn scott,27,quinn@email.com,59000,ENGINEERING,2022-05-20,new york,555-131-3131
+20,rachel king,34,rachel@email.com,77000,Sales,2019-07-10,berlin,555-141-4141
